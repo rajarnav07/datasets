@@ -28,3 +28,12 @@ Hosted PDFs for GAIA evaluation tasks (project: Gemini headroom collection on Of
 | `bea_gdp_q3_2024_restated/` | BEA GDP Q3 2024 (legacy, superseded) |
 
 All PDFs token-safe under Gemini 3.5 Flash's 1,048,576-token input cap.
+
+## june_4 batch (J4A-J4D) — old scanned, dense barely-visible plots, multi-page, no table backup
+
+| Task | Dir | Source | Pages | Plot type |
+|---|---|---|---|---|
+| J4A | `J4A_statistical_atlas/` | US Statistical Atlas, 1900 Census (Gannett) | 149 | hand-engraved rank-order bar plates (no labels) |
+| J4B | `J4B_naca_aero/` | NACA TR-824 Summary of Airfoil Data (1945) | 131 | dense log-log airfoil polars / coefficient curves |
+| J4C | `J4C_weather_ag/` | USDA Atlas of American Agriculture — Climate | 60 | hand-drawn isopleth (contour) climate maps |
+| J4D | `J4D_usgs_hydro/` | USGS Water-Supply Paper 1543-A (flood-frequency) | 86 | Gumbel / log-log flood-frequency curves (no data tables) |
